@@ -141,3 +141,20 @@ MIT License - feel free to use this project for personal or commercial purposes.
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](assets/login.jpeg)
+
+### 🔑 Google Sign-In
+![Google Sign-In](assets/google_signin.jpeg)
+
+### 📊 Dashboard
+![Dashboard](assets/dashboard.jpeg)
+
+### 📝 Create New Entry
+![Create Entry](assets/entry_new.jpeg)
+
+### 💼 Portfolio Page
+![Portfolio Page](assets/portfolio.jpeg)
